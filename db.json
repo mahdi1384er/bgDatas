@@ -1,0 +1,29 @@
+{
+  "imgsDataBG": [
+    {
+      "id": 1,
+      "titels": "ییلاق جواهرده",
+      "imgs": "/img/imgs/ییلاق-ها-و-ارتفاعات-رامسر.webp"
+    },
+    {
+      "id": 2,
+      "titels": "خدمات آنلاین در تمام روزهای هفته",
+      "imgs": "/img/imgs/ییلاق-ها-و-ارتفاعات-رامسر.webp"
+    },
+    {
+      "id": 3,
+      "titels": "خدمات آنلاین در تمام روزهای هفته",
+      "imgs": "https://images.unsplash.com/photo-1661105275403-d82a5071a570?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UmFtc2FyJTIwVmlsbGF8ZW58MHx8MHx8fDA%3D&w=800"
+    },
+    {
+      "id": 4,
+      "titels": "خدمات آنلاین در تمام روزهای هفته",
+      "imgs": "https://images.unsplash.com/photo-1690702390926-c0b5322d9906?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8UmFtc2FyJTIwVmlsbGF8ZW58MHx8MHx8fDA%3D&w=800"
+    },
+    {
+      "id": 5,
+      "titels": "خدمات آنلاین در تمام روزهای هفته",
+      "imgs": "https://images.unsplash.com/photo-1560710482-d356c53e1803?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFJhbXNhciUyMFZpbGxhfGVufDB8fDB8fHww&w=800"
+    }
+  ]
+}
